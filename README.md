@@ -1,4 +1,5 @@
 # React-Movie-TMDB
+[Live Demo](https://movie-tmdb-wedev.netlify.app/)
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
